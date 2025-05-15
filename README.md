@@ -35,7 +35,7 @@ SETUP INSTRUCTIONS
 -----------------------------------------
 
 1. Clone the repository:
-   git clone https://github.com/your-username/rag-resume-retriever.git
+   git clone https://github.com/prithamreddyv/rag-resume-retriever.git
    cd rag-resume-retriever
 
 2. Install Python requirements:
